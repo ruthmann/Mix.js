@@ -1,129 +1,140 @@
 {
-  "name": "1901",
-  "gain": 1,
-  "position": 0,
-  "minTime": 3,
-  "maxTime": 192,
-  "tracks": [
-    {
-      "name": "Kit L",
-      "path": "sounds\/1901_drumsleft.mp3",
-      "gain": 0.5175,
-      "pan": -1,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Kit R",
-      "path": "sounds\/1901_drumsright.mp3",
-      "gain": 0.5175,
-      "pan": 1,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Triggers",
-      "path": "sounds\/1901_triggers.mp3",
-      "gain": 0.57045454545455,
-      "pan": 0,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Bass",
-      "path": "sounds\/1901_bass.mp3",
-      "gain": 0.38159090909091,
-      "pan": 0,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Keys",
-      "path": "sounds\/1901_keys.mp3",
-      "gain": 0.76318181818182,
-      "pan": -0.31817540662604,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Gtr 1",
-      "path": "sounds\/1901_gtr1.mp3",
-      "gain": 1.1134090909091,
-      "pan": -0.16763424252422,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Gtr 2",
-      "path": "sounds\/1901_gtr2.mp3",
-      "gain": 0.805,
-      "pan": 0.44667745226923,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Synth 1",
-      "path": "sounds\/1901_synth1.mp3",
-      "gain": 0.41295454545455,
-      "pan": -0.020272528811521,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Synth 2",
-      "path": "sounds\/1901_synth2.mp3",
-      "gain": 0.61159090909091,
-      "pan": 0.30769297080169,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Siren",
-      "path": "sounds\/1901_siren.mp3",
-      "gain": 0.54886363636364,
-      "pan": 0.086623719781989,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Vox FX",
-      "path": "sounds\/1901_voxfx.mp3",
-      "gain": 0.87295454545455,
-      "pan": 0,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    },
-    {
-      "name": "Ld Vox",
-      "path": "sounds\/1901_leadvox.mp3",
-      "gain": 1.0088636363636,
-      "pan": 0,
-      "muted": false,
-      "_muted": false,
-      "soloed": false,
-      "afl": true
-    }
-  ]
+   "name":"Sledgehammer",
+   "gain":1,
+   "minTime":3,
+   "maxTime":300,
+   "tracks":[
+      {
+         "name":"Mix L",
+         "path":"sounds/MIX_L_02.mp3",
+         "gain":1,
+         "pan":-1,
+         "muted":false,
+         "_muted":false,
+         "soloed":true,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Mix R",
+         "path":"sounds/MIX_R_02.mp3",
+         "gain":1,
+         "pan":1,
+         "muted":false,
+         "_muted":false,
+         "soloed":true,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Shak",
+         "path":"sounds/SLEDGE_SHAK_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Drums",
+         "path":"sounds/SLEDGE_DRUMS_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Bass",
+         "path":"sounds/SLEDGE_BASS_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Guitars",
+         "path":"sounds/SLEDGE_GUITAR_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Piano",
+         "path":"sounds/SLEDGE_PIANO_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Prophet",
+         "path":"sounds/SLEDGE_PROPHET_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"Horns",
+         "path":"sounds/SLEDGE_HORNS_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"BG Vox",
+         "path":"sounds/SLEDGE_BV_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"PG BG Vox",
+         "path":"sounds/SLEDGE_PGBV_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      },
+      {
+         "name":"PG Vox",
+         "path":"sounds/SLEDGE_VOX_02.mp3",
+         "gain":0.0,
+         "pan":0.0,
+         "muted":false,
+         "_muted":false,
+         "soloed":false,
+         "afl":true,
+         "duration":302.5474853515625
+      }
+   ]
 }
